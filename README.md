@@ -185,8 +185,8 @@ cd client
 npm run dev
 ```
 
-App runs at: **http://localhost:5173**  
-API runs at: **http://localhost:5000**
+App runs at: **https://hostel-complaint-portal-gamma.vercel.app/**  
+API runs at: **https://hostel-complaint-portal-6unm.onrender.com**
 
 ---
 
@@ -302,16 +302,3 @@ POST /api/admin/staff             - Create staff member
 - Image upload validated for type (jpg/png) and size (2MB)
 
 ---
-
-## 📸 Screenshots Section
-
-> Add screenshots here after running the application.
-
-- Landing page
-- Student registration
-- Student dashboard
-- Filing a complaint
-- Admin dashboard with charts
-- Admin complaint management
-- Dark mode
-  heCH9PPpeYiENVsQ
